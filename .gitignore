@@ -1,1 +1,39 @@
-/bin/
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.properties
+
+# Eclipse
+.project
+.classpath
+.settings
+
+# Idea
+.idea
+*.iml
+*.iws
+*.ipr
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Gradle
+.gradle
+!gradle-wrapper.jar
+
+# Maven
+target
+
+# Build
+out
+build
+bin
+classes
+
+# Other
+*.log
+*.swp
+*.bak
